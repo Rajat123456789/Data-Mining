@@ -1,0 +1,1774 @@
+{
+    "results": [
+        {
+            "facet_counts": [
+                {
+                    "counts": [
+                        {
+                            "count": 3,
+                            "highlighted": "e96617dc-2e14-4542-8187-c2cdc64dd309",
+                            "value": "e96617dc-2e14-4542-8187-c2cdc64dd309"
+                        }
+                    ],
+                    "field_name": "company_id",
+                    "sampled": false,
+                    "stats": {
+                        "total_values": 1
+                    }
+                },
+                {
+                    "counts": [
+                        {
+                            "count": 3,
+                            "highlighted": "Bachelor's",
+                            "value": "Bachelor's"
+                        },
+                        {
+                            "count": 2,
+                            "highlighted": "MBA",
+                            "value": "MBA"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "JD",
+                            "value": "JD"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "MD",
+                            "value": "MD"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "PhD",
+                            "value": "PhD"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "PharmD",
+                            "value": "PharmD"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Master's",
+                            "value": "Master's"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Bootcamp",
+                            "value": "Bootcamp"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Associate's",
+                            "value": "Associate's"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Certificate",
+                            "value": "Certificate"
+                        }
+                    ],
+                    "field_name": "degrees",
+                    "sampled": false,
+                    "stats": {
+                        "total_values": 10
+                    }
+                },
+                {
+                    "counts": [
+                        {
+                            "count": 3,
+                            "highlighted": "Senior",
+                            "value": "Senior"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Junior",
+                            "value": "Junior"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Mid Level",
+                            "value": "Mid Level"
+                        }
+                    ],
+                    "field_name": "experience_level",
+                    "sampled": false,
+                    "stats": {
+                        "total_values": 3
+                    }
+                },
+                {
+                    "counts": [
+                        {
+                            "count": 1,
+                            "highlighted": "Product",
+                            "value": "Product"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Business & Strategy",
+                            "value": "Business & Strategy"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Operations & Logistics",
+                            "value": "Operations & Logistics"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Customer Success & Support",
+                            "value": "Customer Success & Support"
+                        },
+                        {
+                            "count": 1,
+                            "highlighted": "Sales & Account Management",
+                            "value": "Sales & Account Management"
+                        }
+                    ],
+                    "field_name": "functions",
+                    "sampled": false,
+                    "stats": {
+                        "total_values": 5
+                    }
+                },
+                {
+                    "counts": [
+                        {
+                            "count": 3,
+                            "highlighted": "United States",
+                            "value": "United States"
+                        }
+                    ],
+                    "field_name": "locations",
+                    "sampled": false,
+                    "stats": {
+                        "total_values": 1
+                    }
+                }
+            ],
+            "found": 3,
+            "hits": [
+                {
+                    "document": {
+                        "company_id": "e96617dc-2e14-4542-8187-c2cdc64dd309",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/e96617dc-2e14-4542-8187-c2cdc64dd309/logo.png",
+                        "company_name": "Arcadia",
+                        "company_url": "https://simplify.jobs/c/Arcadia",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "MBA"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Sales & Account Management",
+                            "Operations & Logistics"
+                        ],
+                        "geolocations": [
+                            [
+                                37.09024,
+                                -95.712891
+                            ]
+                        ],
+                        "id": "d0250bc7-4224-4a85-9dd9-d076ecba6d5c",
+                        "industries": [
+                            "Data & Analytics",
+                            "Crypto & Web3",
+                            "Energy"
+                        ],
+                        "locations": [
+                            "United States"
+                        ],
+                        "posting_id": "d0250bc7-4224-4a85-9dd9-d076ecba6d5c",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Sales",
+                            "Salesforce",
+                            "Marketing",
+                            "Data Analysis",
+                            "Excel/Numbers/Sheets"
+                        ],
+                        "start_date": 1707783361,
+                        "title": "Senior Manager - Enterprise Commercial Operations",
+                        "type": "Full-Time",
+                        "updated_date": 1708654038,
+                        "url": "https://boards.greenhouse.io/arcadiacareers/jobs/7215607002"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "e96617dc-2e14-4542-8187-c2cdc64dd309",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/e96617dc-2e14-4542-8187-c2cdc64dd309/logo.png",
+                        "company_name": "Arcadia",
+                        "company_url": "https://simplify.jobs/c/Arcadia",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Product"
+                        ],
+                        "geolocations": [
+                            [
+                                37.09024,
+                                -95.712891
+                            ]
+                        ],
+                        "id": "d7b77596-a14c-46c6-8a3b-6e2c684c0250",
+                        "industries": [
+                            "Data & Analytics",
+                            "Crypto & Web3",
+                            "Energy"
+                        ],
+                        "locations": [
+                            "United States"
+                        ],
+                        "posting_id": "d7b77596-a14c-46c6-8a3b-6e2c684c0250",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Agile",
+                            "Python",
+                            "Communications",
+                            "Marketing",
+                            "Data Analysis"
+                        ],
+                        "start_date": 1707332710,
+                        "title": "Senior Product Manager - Energy Analytics",
+                        "type": "Full-Time",
+                        "updated_date": 1708654312,
+                        "url": "https://boards.greenhouse.io/arcadiacareers/jobs/7180410002"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "e96617dc-2e14-4542-8187-c2cdc64dd309",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/e96617dc-2e14-4542-8187-c2cdc64dd309/logo.png",
+                        "company_name": "Arcadia",
+                        "company_url": "https://simplify.jobs/c/Arcadia",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Junior",
+                            "Mid Level",
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Business & Strategy",
+                            "Customer Success & Support"
+                        ],
+                        "geolocations": [
+                            [
+                                37.09024,
+                                -95.712891
+                            ]
+                        ],
+                        "id": "0bf4885e-10a3-4203-966e-5b1876e10ee4",
+                        "industries": [
+                            "Data & Analytics",
+                            "Crypto & Web3",
+                            "Energy"
+                        ],
+                        "locations": [
+                            "United States"
+                        ],
+                        "posting_id": "0bf4885e-10a3-4203-966e-5b1876e10ee4",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Communications",
+                            "Customer Service"
+                        ],
+                        "start_date": 1701354702,
+                        "title": "Associate \u2013 Business Success",
+                        "type": "Full-Time",
+                        "updated_date": 1708654239,
+                        "url": "https://boards.greenhouse.io/arcadiacareers/jobs/7037194002"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                }
+            ],
+            "out_of": 48719,
+            "page": 1,
+            "request_params": {
+                "collection_name": "jobs_v2",
+                "per_page": 21,
+                "q": ""
+            },
+            "search_cutoff": false,
+            "search_time_ms": 3
+        },
+        {
+            "facet_counts": [
+                {
+                    "counts": [
+                        {
+                            "count": 414,
+                            "highlighted": "f387e7ef-efd2-4f98-bc48-ed0e3becd345",
+                            "value": "f387e7ef-efd2-4f98-bc48-ed0e3becd345"
+                        },
+                        {
+                            "count": 396,
+                            "highlighted": "eb8e3d29-222e-448d-bcb7-9934fd1b4b0e",
+                            "value": "eb8e3d29-222e-448d-bcb7-9934fd1b4b0e"
+                        },
+                        {
+                            "count": 288,
+                            "highlighted": "3807aa81-2cd2-4516-a1aa-6d5482ec292e",
+                            "value": "3807aa81-2cd2-4516-a1aa-6d5482ec292e"
+                        },
+                        {
+                            "count": 270,
+                            "highlighted": "a8912dd0-ee7b-4016-bc1e-882ca992dd16",
+                            "value": "a8912dd0-ee7b-4016-bc1e-882ca992dd16"
+                        },
+                        {
+                            "count": 265,
+                            "highlighted": "c8c92ea1-07fd-4ae0-8142-9ab65d9a98a3",
+                            "value": "c8c92ea1-07fd-4ae0-8142-9ab65d9a98a3"
+                        },
+                        {
+                            "count": 253,
+                            "highlighted": "9ed4be43-dd52-4785-863c-c288c04717fe",
+                            "value": "9ed4be43-dd52-4785-863c-c288c04717fe"
+                        },
+                        {
+                            "count": 233,
+                            "highlighted": "a9e95af8-fcce-4aab-8efa-a1f0c54a47ea",
+                            "value": "a9e95af8-fcce-4aab-8efa-a1f0c54a47ea"
+                        },
+                        {
+                            "count": 228,
+                            "highlighted": "808a1b71-aecb-49df-9587-39bc158d2035",
+                            "value": "808a1b71-aecb-49df-9587-39bc158d2035"
+                        },
+                        {
+                            "count": 225,
+                            "highlighted": "eb933d26-9175-4a90-9531-bf0caa74cf0a",
+                            "value": "eb933d26-9175-4a90-9531-bf0caa74cf0a"
+                        },
+                        {
+                            "count": 194,
+                            "highlighted": "d9a164c2-2f82-4ddc-9351-708bb0a4a8b2",
+                            "value": "d9a164c2-2f82-4ddc-9351-708bb0a4a8b2"
+                        }
+                    ],
+                    "field_name": "company_id",
+                    "sampled": false,
+                    "stats": {
+                        "total_values": 3231
+                    }
+                }
+            ],
+            "found": 48719,
+            "hits": [
+                {
+                    "document": {
+                        "company_id": "091b6d74-f535-4245-9351-ea02ab270d58",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/091b6d74-f535-4245-9351-ea02ab270d58/logo.png",
+                        "company_name": "Square",
+                        "company_url": "https://simplify.jobs/c/Square",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's"
+                        ],
+                        "experience_level": [
+                            "Mid Level",
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Sales & Account Management",
+                            "Growth & Marketing"
+                        ],
+                        "geolocations": [
+                            [
+                                44.977753,
+                                -93.2650108
+                            ]
+                        ],
+                        "id": "049b2d5a-8310-43f6-9e66-d062aa2df142",
+                        "industries": [
+                            "Financial Services",
+                            "Consulting",
+                            "Social Impact",
+                            "Consumer Goods",
+                            "Energy"
+                        ],
+                        "locations": [
+                            "Remote in USA",
+                            "Minneapolis, MN, USA"
+                        ],
+                        "posting_id": "049b2d5a-8310-43f6-9e66-d062aa2df142",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Sales",
+                            "Marketing"
+                        ],
+                        "start_date": 1709691499,
+                        "title": "Retail Partner Manager - US",
+                        "type": "Full-Time",
+                        "updated_date": 1709691499,
+                        "url": "https://jobs.smartrecruiters.com/Square/743999971554694"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "7f9be0a6-ae2e-4b79-8914-e5aa7f14f7e9",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/7f9be0a6-ae2e-4b79-8914-e5aa7f14f7e9/logo.png",
+                        "company_name": "Western Digital",
+                        "company_url": "https://simplify.jobs/c/Western-Digital",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's"
+                        ],
+                        "experience_level": [
+                            "Mid Level",
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Sales & Account Management",
+                            "Software Engineering"
+                        ],
+                        "geolocations": [
+                            [
+                                37.4323341,
+                                -121.8995741
+                            ]
+                        ],
+                        "id": "ea3e1218-39fe-4a7e-80ab-a339686542f9",
+                        "industries": [
+                            "Data & Analytics",
+                            "Hardware"
+                        ],
+                        "locations": [
+                            "Milpitas, CA, USA",
+                            "Remote in USA"
+                        ],
+                        "posting_id": "ea3e1218-39fe-4a7e-80ab-a339686542f9",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Sales",
+                            "Communications",
+                            "Marketing"
+                        ],
+                        "start_date": 1709691498,
+                        "title": "Content Marketing Specialist",
+                        "type": "Full-Time",
+                        "updated_date": 1709691498,
+                        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999971908393"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "091b6d74-f535-4245-9351-ea02ab270d58",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/091b6d74-f535-4245-9351-ea02ab270d58/logo.png",
+                        "company_name": "Square",
+                        "company_url": "https://simplify.jobs/c/Square",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Software Engineering"
+                        ],
+                        "geolocations": [
+                            [
+                                38.3488023,
+                                -120.7741018
+                            ]
+                        ],
+                        "id": "c8fd51ca-e795-4cdc-ab6e-f9cd174c9ac2",
+                        "industries": [
+                            "Financial Services",
+                            "Consulting",
+                            "Social Impact",
+                            "Consumer Goods",
+                            "Energy"
+                        ],
+                        "locations": [
+                            "Jackson, CA, USA",
+                            "Remote in USA"
+                        ],
+                        "posting_id": "c8fd51ca-e795-4cdc-ab6e-f9cd174c9ac2",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Software Testing",
+                            "iOS/Swift",
+                            "Objective-C",
+                            "Android Development"
+                        ],
+                        "start_date": 1709691087,
+                        "title": "Senior Software Engineer - IOS - Invoices Core Payments",
+                        "type": "Full-Time",
+                        "updated_date": 1709691087,
+                        "url": "https://jobs.smartrecruiters.com/Square/743999971887008"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "82bb4284-95b4-492c-9ef4-f0f5b1fd6387",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/82bb4284-95b4-492c-9ef4-f0f5b1fd6387/logo.png",
+                        "company_name": "ServiceNow",
+                        "company_url": "https://simplify.jobs/c/ServiceNow",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's"
+                        ],
+                        "experience_level": [
+                            "Internship"
+                        ],
+                        "functions": [
+                            "Growth & Marketing"
+                        ],
+                        "geolocations": [
+                            [
+                                37.3541132,
+                                -121.955174
+                            ]
+                        ],
+                        "id": "1f7fa7e1-eddb-4ed7-bbf5-a4464f1b2ff4",
+                        "industries": [],
+                        "locations": [
+                            "Remote in USA",
+                            "Santa Clara, CA, USA"
+                        ],
+                        "posting_id": "1f7fa7e1-eddb-4ed7-bbf5-a4464f1b2ff4",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [
+                            "Summer 2024",
+                            "Fall 2024",
+                            "Winter 2025"
+                        ],
+                        "skills": [
+                            "Agile",
+                            "Sales",
+                            "Communications",
+                            "MySQL",
+                            "Adobe Creative Suite",
+                            "Management",
+                            "Adobe Photoshop",
+                            "Java",
+                            "Journalism",
+                            "Google AdWords",
+                            "Marketing",
+                            "SCRUM",
+                            "Graphic Design",
+                            "Data Analysis",
+                            "HTML/CSS",
+                            "Google Analytics",
+                            "PowerPoint/Keynote/Slides"
+                        ],
+                        "start_date": 1709691091,
+                        "title": "Marketing Co-Op - July - December 2024",
+                        "type": "Internship",
+                        "updated_date": 1709691091,
+                        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999967182040"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "7f9be0a6-ae2e-4b79-8914-e5aa7f14f7e9",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/7f9be0a6-ae2e-4b79-8914-e5aa7f14f7e9/logo.png",
+                        "company_name": "Western Digital",
+                        "company_url": "https://simplify.jobs/c/Western-Digital",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's"
+                        ],
+                        "experience_level": [
+                            "Junior"
+                        ],
+                        "functions": [
+                            "Art, Graphics & Animation",
+                            "Social Media"
+                        ],
+                        "geolocations": [
+                            [
+                                37.3634383,
+                                -121.8885655
+                            ]
+                        ],
+                        "id": "ba8825cf-b551-47d4-b6ee-c1e330041fd3",
+                        "industries": [
+                            "Data & Analytics",
+                            "Hardware"
+                        ],
+                        "locations": [
+                            "San Jose, CA, USA",
+                            "Remote in USA"
+                        ],
+                        "posting_id": "ba8825cf-b551-47d4-b6ee-c1e330041fd3",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Communications",
+                            "Adobe Creative Suite",
+                            "Animation",
+                            "Marketing",
+                            "Graphic Design"
+                        ],
+                        "start_date": 1709690830,
+                        "title": "Jr. Multimedia Designer - Editorial & Social",
+                        "type": "Full-Time",
+                        "updated_date": 1709690830,
+                        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999969498181"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "7f9be0a6-ae2e-4b79-8914-e5aa7f14f7e9",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/7f9be0a6-ae2e-4b79-8914-e5aa7f14f7e9/logo.png",
+                        "company_name": "Western Digital",
+                        "company_url": "https://simplify.jobs/c/Western-Digital",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's"
+                        ],
+                        "experience_level": [
+                            "Senior",
+                            "Expert or higher"
+                        ],
+                        "functions": [
+                            "Hardware Engineering",
+                            "Software Engineering"
+                        ],
+                        "geolocations": [
+                            [
+                                38.8338816,
+                                -104.8213634
+                            ]
+                        ],
+                        "id": "bc5cf77b-d075-498b-99f6-f37db303c8c6",
+                        "industries": [
+                            "Data & Analytics",
+                            "Hardware"
+                        ],
+                        "locations": [
+                            "Colorado Springs, CO, USA"
+                        ],
+                        "posting_id": "bc5cf77b-d075-498b-99f6-f37db303c8c6",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Agile",
+                            "Operating Systems"
+                        ],
+                        "start_date": 1709690519,
+                        "title": "Technologist Firmware Engineer",
+                        "type": "Full-Time",
+                        "updated_date": 1709690519,
+                        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999968145455"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "d433b95b-4665-4b08-828f-34c23f4331c3",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/d433b95b-4665-4b08-828f-34c23f4331c3/logo.png",
+                        "company_name": "ALTEN Technology",
+                        "company_url": "https://simplify.jobs/c/d433b95b-4665-4b08-828f-34c23f4331c3",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Hardware Engineering"
+                        ],
+                        "geolocations": [],
+                        "id": "382a498e-4038-4147-8406-d3700ccfcd13",
+                        "industries": [
+                            "Consulting",
+                            "Automotive & Transportation",
+                            "Energy"
+                        ],
+                        "locations": [
+                            "Remote in USA"
+                        ],
+                        "posting_id": "382a498e-4038-4147-8406-d3700ccfcd13",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [],
+                        "start_date": 1709685254,
+                        "title": "Integrated Project Team Engineer",
+                        "type": "Full-Time",
+                        "updated_date": 1709685254,
+                        "url": "https://boards.greenhouse.io/altentechnologyusa/jobs/4277702007"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "a8912dd0-ee7b-4016-bc1e-882ca992dd16",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/a8912dd0-ee7b-4016-bc1e-882ca992dd16/logo.png",
+                        "company_name": "Xplor",
+                        "company_url": "https://simplify.jobs/c/a8912dd0-ee7b-4016-bc1e-882ca992dd16",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Master's"
+                        ],
+                        "experience_level": [
+                            "Mid Level",
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Software Engineering"
+                        ],
+                        "geolocations": [
+                            [
+                                32.7766642,
+                                -96.79698789999999
+                            ]
+                        ],
+                        "id": "c3c896d7-a12a-4d30-8829-d74410a5edaa",
+                        "industries": [
+                            "Data & Analytics"
+                        ],
+                        "locations": [
+                            "Dallas, TX, USA",
+                            "Remote in USA"
+                        ],
+                        "posting_id": "c3c896d7-a12a-4d30-8829-d74410a5edaa",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Microsoft Azure",
+                            "Agile",
+                            "JavaScript",
+                            "React.js",
+                            "ASP.NET",
+                            "SQL",
+                            "Vue.js",
+                            "Business Strategy",
+                            "Development Operations (DevOps)",
+                            "AngularJS",
+                            "HTML/CSS"
+                        ],
+                        "start_date": 1709685252,
+                        "title": "Principal Software Engineer - Remote",
+                        "type": "Full-Time",
+                        "updated_date": 1709685252,
+                        "url": "https://jobs.smartrecruiters.com/Xplor/743999971874293"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "4b08ec11-ba4a-439d-8f3f-8b4edbfcbb51",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/4b08ec11-ba4a-439d-8f3f-8b4edbfcbb51/logo.png",
+                        "company_name": "Octopus Energy",
+                        "company_url": "https://simplify.jobs/c/Octopus-energy",
+                        "countries": [
+                            "United Kingdom"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "IT & Security"
+                        ],
+                        "geolocations": [
+                            [
+                                51.8642449,
+                                -2.238156
+                            ]
+                        ],
+                        "id": "bfd2ef52-9f7c-4f4e-85ba-33b36133ddb0",
+                        "industries": [
+                            "Data & Analytics",
+                            "Energy"
+                        ],
+                        "locations": [
+                            "Gloucester, UK"
+                        ],
+                        "posting_id": "bfd2ef52-9f7c-4f4e-85ba-33b36133ddb0",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [],
+                        "start_date": 1709685253,
+                        "title": "Heat Pump Engineer - Gloucestershire",
+                        "type": "Full-Time",
+                        "updated_date": 1709685253,
+                        "url": "https://jobs.lever.co/octoenergy/2f133d6b-ed78-4a0c-9821-dedab6735513/apply"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "2ae09359-baab-4b8d-938d-4f6b785b8fce",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/2ae09359-baab-4b8d-938d-4f6b785b8fce/logo.png",
+                        "company_name": "Invitae",
+                        "company_url": "https://simplify.jobs/c/Invitae",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "IT & Security"
+                        ],
+                        "geolocations": [
+                            [
+                                37.7592612,
+                                -122.4354294
+                            ]
+                        ],
+                        "id": "5afca0c1-6a67-4046-b0b1-9fc7a4042342",
+                        "industries": [
+                            "AI & Machine Learning",
+                            "Robotics & Automation",
+                            "Biotechnology"
+                        ],
+                        "locations": [
+                            "San Francisco, CA, USA"
+                        ],
+                        "posting_id": "5afca0c1-6a67-4046-b0b1-9fc7a4042342",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "TCP/IP",
+                            "Computer Networking",
+                            "Linux/Unix"
+                        ],
+                        "start_date": 1709685252,
+                        "title": "Sr Network Engineer",
+                        "type": "Full-Time",
+                        "updated_date": 1709685252,
+                        "url": "https://boards.greenhouse.io/invitae/jobs/5779077"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "d505a88c-ad5e-4350-ab00-8d7dd0991213",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/d505a88c-ad5e-4350-ab00-8d7dd0991213/logo.png",
+                        "company_name": "Intel",
+                        "company_url": "https://simplify.jobs/c/Intel",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Master's",
+                            "PhD"
+                        ],
+                        "experience_level": [
+                            "Internship"
+                        ],
+                        "functions": [
+                            "Electrical Engineering",
+                            "Software Engineering"
+                        ],
+                        "geolocations": [
+                            [
+                                30.267153,
+                                -97.7430608
+                            ]
+                        ],
+                        "id": "c93aaf82-d70f-4ef3-af0e-c4e3f1d7f3f9",
+                        "industries": [
+                            "Hardware",
+                            "Industrial & Manufacturing"
+                        ],
+                        "locations": [
+                            "Austin, TX, USA"
+                        ],
+                        "posting_id": "c93aaf82-d70f-4ef3-af0e-c4e3f1d7f3f9",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [
+                            "Summer 2024"
+                        ],
+                        "skills": [
+                            "Python",
+                            "Perl",
+                            "Linux/Unix"
+                        ],
+                        "start_date": 1709685251,
+                        "title": "CPU Circuit Design Graduate Intern",
+                        "type": "Internship",
+                        "updated_date": 1709685251,
+                        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/CPU-Circuit-Design-Graduate-Intern_JR0250891"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "12decafc-9abf-4d6e-9416-964c8ed9b561",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/12decafc-9abf-4d6e-9416-964c8ed9b561/logo.jpg",
+                        "company_name": "Flex",
+                        "company_url": "https://simplify.jobs/c/Flex",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "QA & Testing",
+                            "Software Engineering"
+                        ],
+                        "geolocations": [
+                            [
+                                40.7127753,
+                                -74.0059728
+                            ]
+                        ],
+                        "id": "f02ced51-1d50-4243-bb31-4d73b3bfcd22",
+                        "industries": [],
+                        "locations": [
+                            "New York, NY, USA"
+                        ],
+                        "posting_id": "f02ced51-1d50-4243-bb31-4d73b3bfcd22",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "UI/UX Design",
+                            "React.js",
+                            "Postman",
+                            "Git",
+                            "SQL",
+                            "Java",
+                            "Quality Assurance (QA)",
+                            "REST APIs",
+                            "Selenium"
+                        ],
+                        "start_date": 1709685176,
+                        "title": "Senior Software Development Engineer in Test - Quality Engineering",
+                        "type": "Full-Time",
+                        "updated_date": 1709685176,
+                        "url": "https://boards.greenhouse.io/flex/jobs/4385094005"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "92e67873-1ff4-4740-a20a-86a51e368ade",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/92e67873-1ff4-4740-a20a-86a51e368ade/logo.png",
+                        "company_name": "Varsity Tutors",
+                        "company_url": "https://simplify.jobs/c/Varsity-Tutors",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Junior",
+                            "Mid Level"
+                        ],
+                        "functions": [
+                            "Sales & Account Management"
+                        ],
+                        "geolocations": [],
+                        "id": "eb2e009f-e209-42d1-9519-d05036370ce8",
+                        "industries": [
+                            "AI & Machine Learning",
+                            "Education"
+                        ],
+                        "locations": [
+                            "Remote in USA"
+                        ],
+                        "posting_id": "eb2e009f-e209-42d1-9519-d05036370ce8",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Sales",
+                            "Communications"
+                        ],
+                        "start_date": 1709685177,
+                        "title": "Account Manager - Inside Sales",
+                        "type": "Full-Time",
+                        "updated_date": 1709685177,
+                        "url": "https://boards.greenhouse.io/varsitytutors/jobs/5782703"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "f5d602a9-1c29-4d38-8e69-b9d18bbbef53",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/f5d602a9-1c29-4d38-8e69-b9d18bbbef53/logo.png",
+                        "company_name": "Cardlytics",
+                        "company_url": "https://simplify.jobs/c/Cardlytics",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's"
+                        ],
+                        "experience_level": [
+                            "Junior",
+                            "Mid Level",
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Accounting"
+                        ],
+                        "geolocations": [
+                            [
+                                33.7489954,
+                                -84.3879824
+                            ]
+                        ],
+                        "id": "e6c926d0-3781-45b1-9874-52a645847d98",
+                        "industries": [
+                            "Financial Services",
+                            "Data & Analytics"
+                        ],
+                        "locations": [
+                            "Atlanta, GA, USA"
+                        ],
+                        "posting_id": "e6c926d0-3781-45b1-9874-52a645847d98",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "NetSuite",
+                            "Coupa",
+                            "Excel/Numbers/Sheets"
+                        ],
+                        "start_date": 1709685186,
+                        "title": "Manager \u2013 Expense Accounting",
+                        "type": "Full-Time",
+                        "updated_date": 1709685186,
+                        "url": "https://boards.greenhouse.io/cardlytics/jobs/5506442"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "35e33340-36eb-4c95-9650-6f5bf5fbfe02",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/35e33340-36eb-4c95-9650-6f5bf5fbfe02/logo.png",
+                        "company_name": "Humi",
+                        "company_url": "https://simplify.jobs/c/Humi",
+                        "countries": [
+                            "Canada"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Software Engineering"
+                        ],
+                        "geolocations": [
+                            [
+                                56.130366,
+                                -106.346771
+                            ]
+                        ],
+                        "id": "e4a2edd2-9f23-4785-9fec-731b97159879",
+                        "industries": [],
+                        "locations": [
+                            "Canada"
+                        ],
+                        "posting_id": "e4a2edd2-9f23-4785-9fec-731b97159879",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "React.js",
+                            "Ruby on Rails",
+                            "Vue.js",
+                            "AngularJS",
+                            "Django"
+                        ],
+                        "start_date": 1709685182,
+                        "title": "Senior Software Engineer - Ruby on Rails",
+                        "type": "Full-Time",
+                        "updated_date": 1709685182,
+                        "url": "https://jobs.lever.co/humi-2/510b8f31-6d5d-44c5-afe8-d0c48f90fa1e/apply"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "ac2f78a3-b6bd-4113-9554-47de7a5aaa35",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/ac2f78a3-b6bd-4113-9554-47de7a5aaa35/logo.png",
+                        "company_name": "Pipedrive",
+                        "company_url": "https://simplify.jobs/c/Pipedrive",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Junior",
+                            "Mid Level",
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Sales & Account Management",
+                            "Customer Success & Support"
+                        ],
+                        "geolocations": [
+                            [
+                                27.6648274,
+                                -81.5157535
+                            ]
+                        ],
+                        "id": "dc25a565-bfcb-4d84-ba3c-23835a11c383",
+                        "industries": [
+                            "AI & Machine Learning"
+                        ],
+                        "locations": [
+                            "Florida, USA"
+                        ],
+                        "posting_id": "dc25a565-bfcb-4d84-ba3c-23835a11c383",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Communications"
+                        ],
+                        "start_date": 1709685188,
+                        "title": "Customer Success Specialist",
+                        "type": "Full-Time",
+                        "updated_date": 1709685188,
+                        "url": "https://jobs.lever.co/pipedrive/bdf7a741-4386-4667-9d05-228ff8ad1b02/apply"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "e474fa5f-db4a-47ba-885f-fd687ce4b797",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/e474fa5f-db4a-47ba-885f-fd687ce4b797/logo.png",
+                        "company_name": "Outrider",
+                        "company_url": "https://simplify.jobs/c/Outrider",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's"
+                        ],
+                        "experience_level": [
+                            "Senior"
+                        ],
+                        "functions": [
+                            "QA & Testing"
+                        ],
+                        "geolocations": [
+                            [
+                                39.9852617,
+                                -104.8205283
+                            ]
+                        ],
+                        "id": "db8f6667-d0ab-435e-b2f2-50c5050bff15",
+                        "industries": [
+                            "Robotics & Automation"
+                        ],
+                        "locations": [
+                            "Brighton, CO, USA"
+                        ],
+                        "posting_id": "db8f6667-d0ab-435e-b2f2-50c5050bff15",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Python",
+                            "Git",
+                            "JIRA",
+                            "Jenkins",
+                            "Confluence",
+                            "Linux/Unix"
+                        ],
+                        "start_date": 1709685193,
+                        "title": "HIL Test Engineer",
+                        "type": "Full-Time",
+                        "updated_date": 1709685193,
+                        "url": "https://jobs.lever.co/outrider/4a201052-11a3-4e07-a5b4-5703c7903ff8/apply"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "c6c4f811-7196-4c10-b455-9e5ac2d02c2c",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/company/default/logo.png",
+                        "company_name": "Foxen",
+                        "company_url": "https://simplify.jobs/c/Foxen",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's"
+                        ],
+                        "experience_level": [
+                            "Junior",
+                            "Mid Level"
+                        ],
+                        "functions": [
+                            "QA & Testing",
+                            "DevOps & Infrastructure",
+                            "Software Engineering"
+                        ],
+                        "geolocations": [
+                            [
+                                34.4208305,
+                                -119.6981901
+                            ]
+                        ],
+                        "id": "ca3cd28d-b0ad-4b19-890f-706a0d49c4e4",
+                        "industries": [],
+                        "locations": [
+                            "Santa Barbara, CA, USA"
+                        ],
+                        "posting_id": "ca3cd28d-b0ad-4b19-890f-706a0d49c4e4",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Microsoft Azure",
+                            "Agile",
+                            "Python",
+                            "JavaScript",
+                            "Software Testing",
+                            "SQL",
+                            "SCRUM",
+                            "REST APIs",
+                            "Development Operations (DevOps)"
+                        ],
+                        "start_date": 1709685175,
+                        "title": "Software Engineer",
+                        "type": "Full-Time",
+                        "updated_date": 1709685175,
+                        "url": "https://jobs.lever.co/foxen/0d12b5de-c5dd-4b4a-9090-7bcd7cdff490/apply"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "89486e05-5024-42ec-9851-801b268080c8",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/89486e05-5024-42ec-9851-801b268080c8/logo.png",
+                        "company_name": "Farmer's Business Network",
+                        "company_url": "https://simplify.jobs/c/Farmer's-Business-Network",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's"
+                        ],
+                        "experience_level": [
+                            "Mid Level",
+                            "Senior"
+                        ],
+                        "functions": [
+                            "Operations & Logistics",
+                            "Customer Success & Support"
+                        ],
+                        "geolocations": [
+                            [
+                                40.1105875,
+                                -88.2072697
+                            ]
+                        ],
+                        "id": "c9082523-2282-49a7-bed1-957a2266ace6",
+                        "industries": [
+                            "Data & Analytics",
+                            "Food & Agriculture"
+                        ],
+                        "locations": [
+                            "Urbana, IL, USA"
+                        ],
+                        "posting_id": "c9082523-2282-49a7-bed1-957a2266ace6",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "Communications",
+                            "Management",
+                            "Customer Service"
+                        ],
+                        "start_date": 1709685185,
+                        "title": "Logistics Center Manager",
+                        "type": "Full-Time",
+                        "updated_date": 1709685185,
+                        "url": "https://boards.greenhouse.io/farmersbusinessnetwork/jobs/5766583"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "7f9be0a6-ae2e-4b79-8914-e5aa7f14f7e9",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/7f9be0a6-ae2e-4b79-8914-e5aa7f14f7e9/logo.png",
+                        "company_name": "Western Digital",
+                        "company_url": "https://simplify.jobs/c/Western-Digital",
+                        "countries": [
+                            "United States"
+                        ],
+                        "degrees": [
+                            "Bachelor's"
+                        ],
+                        "experience_level": [
+                            "Internship"
+                        ],
+                        "functions": [
+                            "Hardware Engineering",
+                            "Product"
+                        ],
+                        "geolocations": [
+                            [
+                                37.4323341,
+                                -121.8995741
+                            ]
+                        ],
+                        "id": "c8f6e743-9be4-49cd-94ff-f3a5df331aca",
+                        "industries": [
+                            "Data & Analytics",
+                            "Hardware"
+                        ],
+                        "locations": [
+                            "Milpitas, CA, USA"
+                        ],
+                        "posting_id": "c8f6e743-9be4-49cd-94ff-f3a5df331aca",
+                        "remote": false,
+                        "remote_us": false,
+                        "seasons": [
+                            "Summer 2024"
+                        ],
+                        "skills": [
+                            "Communications"
+                        ],
+                        "start_date": 1709685173,
+                        "title": "Summer Intern - Program Manager Assistant",
+                        "type": "Internship",
+                        "updated_date": 1709685173,
+                        "url": "https://jobs.smartrecruiters.com/WesternDigital/743999971871294"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                },
+                {
+                    "document": {
+                        "company_id": "db14f57d-ddbc-4e1f-8de4-296695cbb65f",
+                        "company_logo": "https://storage.googleapis.com/simplify-imgs/companies/db14f57d-ddbc-4e1f-8de4-296695cbb65f/logo.png",
+                        "company_name": "Mozilla",
+                        "company_url": "https://simplify.jobs/c/Mozilla",
+                        "countries": [],
+                        "degrees": [
+                            "Bachelor's",
+                            "Master's",
+                            "MBA",
+                            "PharmD",
+                            "PhD",
+                            "Associate's",
+                            "JD",
+                            "MD",
+                            "Bootcamp",
+                            "Certificate"
+                        ],
+                        "experience_level": [
+                            "Senior",
+                            "Expert or higher"
+                        ],
+                        "functions": [
+                            "Software Engineering"
+                        ],
+                        "geolocations": [],
+                        "id": "bc5cac11-9961-496a-8365-e3c8de36efc8",
+                        "industries": [],
+                        "locations": [
+                            "Remote"
+                        ],
+                        "posting_id": "bc5cac11-9961-496a-8365-e3c8de36efc8",
+                        "remote": true,
+                        "remote_us": false,
+                        "seasons": [],
+                        "skills": [
+                            "JavaScript",
+                            "HTML/CSS"
+                        ],
+                        "start_date": 1709685163,
+                        "title": "Staff Frontend Engineer - Firefox Desktop",
+                        "type": "Full-Time",
+                        "updated_date": 1709691100,
+                        "url": "https://boards.greenhouse.io/mozilla/jobs/5701496"
+                    },
+                    "highlight": {},
+                    "highlights": [],
+                    "text_match": 100,
+                    "text_match_info": {
+                        "best_field_score": "0",
+                        "best_field_weight": 12,
+                        "fields_matched": 4,
+                        "score": "100",
+                        "tokens_matched": 0
+                    }
+                }
+            ],
+            "out_of": 48719,
+            "page": 1,
+            "request_params": {
+                "collection_name": "jobs_v2",
+                "per_page": 21,
+                "q": ""
+            },
+            "search_cutoff": false,
+            "search_time_ms": 22
+        }
+    ]
+}

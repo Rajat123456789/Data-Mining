@@ -38,7 +38,3 @@ This combined data offers valuable insights into company growth, job opportuniti
 
 - **Navigate** to the respective folders to explore company statistics and H1B data.
 - **Analyze** the integrated data to understand job trends, salary expectations, and H1B visa prospects for specific roles.
-
----
-
-This concise README provides a clear overview of the project, its data sources, and the integration process, aligning with your preference for brevity and clarity.
